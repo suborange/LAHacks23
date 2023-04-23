@@ -1,0 +1,2 @@
+#define SECRET_SSID "LAHACKS_24Ghz"
+#define SECRET_PASS ""
